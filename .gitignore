@@ -1,0 +1,19 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+node_modules/
+dist/
+build/
+.vscode/
+.idea/
+
+HomePilot-AI-compressed.zip
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
